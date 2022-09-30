@@ -1,0 +1,6 @@
+add 8
+add 12
+add 12
+divide 3
+substract 5
+apply 9
